@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://adoption.azureedge.net/wp-content/custom-backgrounds-gallery/microsoft-pride5.jpg);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+
+    font-weight: bolder;
+    color: sienna;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
+.name_of_members, #result_member_name, #result_member_accuracy{
+color: black;
+
+}
+
+.name_div{
+    background-color: aqua;
+}
+
+.color{
+    background-color: magenta;
+    height: 10px;
+    
+}
